@@ -1,0 +1,5 @@
+{
+  "name": "Shai-Hulud Hunter",
+  "description": "A threat intelligence portal for the Shai-Hulud NPM supply chain attack, featuring IOC scanners and AI-assisted analysis.",
+  "requestFramePermissions": []
+}
